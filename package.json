@@ -1,0 +1,33 @@
+{
+  "name": "eslint-config-vogelint-react",
+  "version": "1.0.0",
+  "description": "Eslint preset for developing React apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vogelino/vogelint-react.git"
+  },
+  "keywords": [
+    "eslint.",
+    "preset",
+    "react"
+  ],
+  "peerDependencies": {
+    "eslint": "3.x",
+    "babel-eslint": "7.x",
+    "eslint-config-airbnb": "15.x",
+    "eslint-plugin-react": "7.x",
+    "eslint-plugin-import": "2.x",
+    "eslint-plugin-jsx-a11y": "5.x",
+    "eslint-config-vogelint-react": "1.x",
+  },
+  "author": "Lucas Vogel <contact@vogelino.com> (http://vogelino.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vogelino/vogelint-react/issues"
+  },
+  "homepage": "https://github.com/vogelino/vogelint-react#readme"
+}
