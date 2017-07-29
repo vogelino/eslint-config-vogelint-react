@@ -22,7 +22,7 @@
     "eslint-plugin-react": "7.x",
     "eslint-plugin-import": "2.x",
     "eslint-plugin-jsx-a11y": "5.x",
-    "eslint-config-vogelint-react": "1.x",
+    "eslint-config-vogelint-react": "1.x"
   },
   "author": "Lucas Vogel <contact@vogelino.com> (http://vogelino.com/)",
   "license": "MIT",
