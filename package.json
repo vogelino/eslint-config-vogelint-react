@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-vogelint-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Eslint preset for developing React apps",
   "main": "index.js",
   "scripts": {
