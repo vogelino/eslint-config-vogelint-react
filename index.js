@@ -15,7 +15,7 @@ module.exports = {
 		'comma-dangle': ['error', 'always-multiline'],
 		'arrow-parens': ['error', 'always'],
 		'brace-style': ['error', 'stroustrup'],
-		'no-unused-expressions': [error, { allowTernary: true, allowTemplateTags: true}],
+		'no-unused-expressions': ['error', { allowTernary: true, allowTemplateTags: true}],
 	'import/prefer-default-export': 'off'
 	},
 	env: {
