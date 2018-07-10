@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-vogelint-react",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Eslint preset for developing React apps",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,8 @@
     "eslint-plugin-react": "7.x",
     "eslint-plugin-import": "2.x",
     "eslint-plugin-jsx-a11y": "5.x",
-    "eslint-config-vogelint-react": "1.x"
+    "eslint-config-vogelint-react": "1.x",
+    "eslint-config-prettier": "^2.9.0"
   },
   "author": "Lucas Vogel <contact@vogelino.com> (http://vogelino.com/)",
   "license": "MIT",
